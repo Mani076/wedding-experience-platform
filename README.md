@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WedIndia: Cultural Experience Platform 🇮🇳
 
 WedIndia is a production-ready, full-stack MERN application that connects foreign tourists with authentic Indian wedding experiences. The platform empowers Indian families to host tourists at their weddings, fostering cultural exchange and creating unforgettable memories.
@@ -131,3 +132,7 @@ MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/indian_weddin
 
 ### Adding More Languages
 To add additional languages, edit `frontend/src/i18n.js` and add the translation dictionary to the `resources` object. Then, add the language code to the dropdown in `frontend/src/components/Navbar.jsx`.
+=======
+# wedding-experience-platform
+A full-stack MERN platform that allows foreign tourists to discover, book, and experience authentic Indian weddings with secure payments, host management, and cultural personalization.
+>>>>>>> 5c0578b3de651f1696b4382bf7962930e9da248e
